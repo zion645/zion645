@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zion645
-- 👀 I’m interested in DevSecOps, health, finance, and material science.
+- 👀 I’m interested in DevSecOps, healthcare, finance(real estate), robotics, and material science.
 - 🌱 I’m currently learning machine learning to make better use of data.
 - 💞️ I’m looking to collaborate on ML, python projects that helps propel humanity forward. 
 - 📫 How to reach me ...
